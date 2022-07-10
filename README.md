@@ -2,6 +2,24 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Answers to the questions regarding the project
+
+• How long did you spend on your solution?
+6-7 hours
+• How do you build and run your solution?
+npm run build to build, npm run start for starting the application and npm run test for testing
+• What technical and functional assumptions did you make when implementing
+your solution?
+It wasn't a complex integration. Thought I wouldn't need to work with a global state management tool like redux or context. Came up with the decision of using react fucntional components
+• Briefly explain your technical design and why do you think is the best
+approach to this problem.
+I've taken the approach of using CRA with Typescript and Bootstrap to quicky kick things off. I thought its
+best for small scale testing application
+• If you were unable to complete any user stories, outline why and how would
+you have liked to implement them.
+User stories are kind of complete. I missed the point in 1 sub-story of a user story I guess. What I'd like to mention is that I wasn't able to create a separate service for API calls but if I have a bit more time
+at least I would've created a custom hook for API calls and write some more tests
+
 ## Available Scripts
 
 In the project directory, you can run:
